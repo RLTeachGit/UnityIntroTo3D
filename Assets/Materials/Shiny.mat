@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Shiny
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
@@ -73,4 +73,4 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.8207547, g: 0.763667, b: 0.127759, a: 1}
-    - _EmissionColor: {r: 0.6132076, g: 0.45990568, b: 0.45990568, a: 1}
+    - _EmissionColor: {r: 0.0043793293, g: 0.5955882, b: 0.22863099, a: 1}
